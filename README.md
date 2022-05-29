@@ -29,7 +29,7 @@ Next, the following 3 transactions are tested on the left side of the screen.
 - Transaction 2: Send 10 ether as wei.
 ![ScreenShot2](Execution_Results/scr20.2.png)
 
-- Transaction 3: Send 5 ether.
+- Transaction 3: Send 5 ether as wei.
 ![ScreenShot3](Execution_Results/scr20.3.png)
 
 The balance is updated as follows
