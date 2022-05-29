@@ -42,6 +42,7 @@ The balance is updated as follows
 ![ScreenShot6](Execution_Results/scr20.6.png)
 
 The balance is updated as follows
+
 ![ScreenShot7](Execution_Results/scr20.7.png)
 
 
